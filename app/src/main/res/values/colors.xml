@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="divider_line">#ededed</color>  <!-- 分割线 -->
+    <color name="content_two">#888888</color> <!-- 二级内容颜色 -->
+    <color name="app_green">#58c4a5</color><!-- 绿色主色 -->
+    <color name="text_one">#2a2a2a</color>
+    <color name="text_two">#404040</color>
+    <!-- DropDownMenu -->
+    <color name="no_color">#00000000</color>
+    <color name="choose_eara_item_press_color">#f4f4f4</color>
+    <color name="schedule_text_default">#333333</color>
+    <color name="midmenu">#fafafa</color>
+    <color name="redline">#ff6600</color>
+    <color name="other_day_color">#666666</color>
+    <color name="default_menu_back">#f1f1f1</color>
+    <color name="default_menu_press_back">#fafafa</color>
+</resources>

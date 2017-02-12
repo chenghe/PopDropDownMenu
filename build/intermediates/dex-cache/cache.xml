@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="A:\Project\PopDropDownMenu\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="58d48120fc95c98bcf1a1c1fca190d9e81e7f4ad">
+        <dex dex="A:\Project\PopDropDownMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bec82afd23c39471c31aaea46c989b1876691b82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="A:\Project\PopDropDownMenu\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="A:\Project\PopDropDownMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d25424a5832f8eee4fa6c444c720023e835f36cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="A:\Project\PopDropDownMenu\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="A:\Project\PopDropDownMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_5ce0d0a1091e706be982bc713fe18e1c4b64112e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="A:\Project\PopDropDownMenu\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="A:\Project\PopDropDownMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4fab2627eb5d2baa35e158c2b70de896db6f9e62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="A:\Project\PopDropDownMenu\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="A:\Project\PopDropDownMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_a896dea06e12178cc28a92982bc5aca8c3ffdcd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="A:\Project\PopDropDownMenu\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="A:\Project\PopDropDownMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_d864d8cd0f9d41a8b432be5401282a2f4842d38b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="A:\Project\PopDropDownMenu\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1fea61b5ccc95a14994a72db5350df794465e5a2">
+        <dex dex="A:\Project\PopDropDownMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f5b8ddd3d712bdc8edb533322fe8b44356673967\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="A:\Project\PopDropDownMenu\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="A:\Project\PopDropDownMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_9c2aee34c76b02ece8c79ea2af37ea2c4e90e801\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="A:\Project\PopDropDownMenu\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="A:\Project\PopDropDownMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5e8719a45c8b5293b0b74961bd54c83333a7214b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="A:\Project\PopDropDownMenu\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="A:\Project\PopDropDownMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_daf75a6ed361a8e60c84fca47febd96e4a91f93e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="A:\Project\PopDropDownMenu\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="A:\Project\PopDropDownMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_6c913a99d59f97710508b25ede297d799f7db985\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="A:\Project\PopDropDownMenu\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="A:\Project\PopDropDownMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_82428f5762a0047f18004a08c229c39f212e2469\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="A:\Project\PopDropDownMenu\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="A:\Project\PopDropDownMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_59e1d5d91d25ee2841ac8814d7ef76b69b71f2ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="A:\Project\PopDropDownMenu\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="A:\Project\PopDropDownMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_3906b0caed45c924a8a5445a34007658667a1958\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="A:\Project\PopDropDownMenu\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="A:\Project\PopDropDownMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_f642575e5d2c815d401a5b12394cdbf26bd6fb9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="A:\Project\PopDropDownMenu\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="A:\Project\PopDropDownMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_cbd8e4877b868450f6a03473156c65dadb369ca7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="A:\Android-SDK\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="A:\Project\PopDropDownMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_177172995463de61832a13aff60256a82958045a\classes.dex" />
+    </item>
+
+</items>

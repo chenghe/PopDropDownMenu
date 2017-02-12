@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="40dp">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/tv_menu_item"
+        android:textSize="15sp"
+        android:layout_centerVertical="true"
+        android:textColor="@color/content_two"
+        android:layout_height="wrap_content" />
+    <ImageView
+        android:id="@+id/iv_menu_select"
+        android:layout_alignParentRight="true"
+        android:layout_width="wrap_content"
+        android:layout_marginRight="20dp"
+        android:visibility="gone"
+        android:layout_centerVertical="true"
+        android:src="@drawable/attendance_ico_make"
+        android:layout_height="wrap_content" />
+    <View
+        android:id="@+id/line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_alignParentBottom="true"
+        android:visibility="gone"
+        android:amPmBackgroundColor="@color/app_green"/>
+
+</RelativeLayout>

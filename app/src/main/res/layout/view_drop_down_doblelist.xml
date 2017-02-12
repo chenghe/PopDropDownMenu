@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/ll"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:orientation="horizontal"
+        >
+
+        <ListView
+            android:id="@+id/lv_leftmenu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:cacheColorHint="@color/no_color"
+            android:paddingLeft="4dp"
+            android:layout_weight="1"
+            android:scrollbars="none"
+            android:dividerHeight="1px"
+            android:divider="#dcdcdc"
+            android:listSelector="@color/white"
+            android:background="@color/midmenu">
+        </ListView>
+
+        <ListView
+            android:id="@+id/lv_rightmenu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:cacheColorHint="@color/no_color"
+            android:paddingLeft="4dp"
+            android:layout_weight="1"
+            android:scrollbars="none"
+            android:dividerHeight="1px"
+            android:divider="#dcdcdc"
+            android:background="@color/white">
+        </ListView>
+        <!--<ListView-->
+            <!--android:id="@+id/lv_rightmenu"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:cacheColorHint="@color/no_color"-->
+            <!--android:paddingRight="4dp"-->
+            <!--android:layout_weight="1"-->
+            <!--android:divider="@null"-->
+            <!--android:visibility="gone"-->
+            <!--android:background="@color/choose_eara_item_press_color" >-->
+        <!--</ListView>-->
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_menu_leftshadow"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/ll"
+        android:background="#70000000" >
+    </RelativeLayout>
+
+</RelativeLayout>
